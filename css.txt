@@ -1,0 +1,7 @@
+ecs-assignment3/
+├── app.py
+├── Dockerfile
+├── requirements.txt
+├── buildspec.yml
+├── terraform/
+│   └── main.tf
